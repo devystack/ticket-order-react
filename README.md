@@ -1,7 +1,6 @@
-# Ticket System
+# A Ticket Order
 
-> Ticket system application built with the MERN stack that allow teams to manage bugs, requests, and other support tickets.
-
+## Features
 ![Ticket System Dashboard Home](/public/assets/screenshots/ticket_system_dashboard_home.png)
 ![Ticket System Submit Ticket](/public/assets/screenshots/ticket_system_submit_ticket.png)
 ![Ticket System Manage Users](/public/assets/screenshots/ticket_system_manage_users.png)
